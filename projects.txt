@@ -1,0 +1,21 @@
+1. memory king:
+         Games of lights and sounds in which players must repeat sequence of lights - HTML, CSS, Js
+
+          link: https://naidu15062001.github.io/SIMON/
+
+
+2.Weather Detector:
+         Used Java script, NodeJS and API to extract weather information of any place in real time
+          
+
+         link: https://naidu15062001.github.io/Weather-king.github.io/
+
+
+
+
+3.Bus Ticket Booking
+         A project where tickets can be booked and the status can be checked, as a part of Software
+      Engineering and Project Management course - C++, Object oriented programming
+      
+
+     link: https://github.com/naidu15062001/BUS_KING

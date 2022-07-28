@@ -1,0 +1,55 @@
+* {
+    font-family: sans-serif;
+  }
+  #id{
+    position:relative;
+  }
+  
+  div#ld {
+    position: absolute;
+    width: 70%;
+    height: 200px;
+    z-index:9;
+    border-radius:0px 500px 0px 0px;
+    border-style: solid;
+    border-color: #2DD35C;
+    border-left-color: black;
+    padding: 30px;
+  }
+  
+  div#rd {
+    position: absolute;
+    border-radius:500px 0px 0px 0px;
+    top: 100px;
+    left:500px;
+    background-color: #9e7bb5 ;
+    height: 160px;
+    width: 50%;
+    float: right;
+    
+  }
+  
+  #l2 {
+    color: #5553B7;
+  }
+  button#lb {
+    background-color: #2DD35C;
+    height: 36px;
+    width: 120px;
+    border-style: hidden;
+    border-radius: 30px;
+    color: white;
+    margin: 10px;
+    padding: 5px;
+  }
+  
+  button#rb {
+    height: 36px;
+    width: 120px;
+    border-color: #5553B7;
+    border-radius: 30px;
+    color: #5553B7;
+    font-weight: bold;
+    margin: 10px;
+    padding: 5px;
+  }
